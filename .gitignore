@@ -1,0 +1,7 @@
+ERV_human.dfam.gb
+ERV_human.dfam.fasta
+ERV_human.repbase.fasta
+ERV_human.repbase.gb
+ERV_human.consensus.fasta
+*.bak
+*.pyc

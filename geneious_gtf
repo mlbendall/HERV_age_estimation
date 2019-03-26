@@ -1,0 +1,8 @@
+#! /usr/bin/env perl
+
+BEGIN { $/ = "\n"; $\ = "\n"; }
+LINE: while (defined($_ = <ARGV>)) {
+    chomp $_;
+    s/name "([a-zA-Z_0-9]+)"/name $1/;
+    print $_;
+}
