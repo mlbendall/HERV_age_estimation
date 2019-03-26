@@ -14,7 +14,7 @@ git clone git@github.com:mlbendall/HERV_age_estimation.git HERV_age_estimation.g
 Create a conda environment with the necessary packages
 
 ```bash
-conda create -n hervages python=2.7 future biopython intervaltree mafft
+conda create -n hervages python=2.7 requests future biopython intervaltree mafft
 ```
 
 Activate the environment
