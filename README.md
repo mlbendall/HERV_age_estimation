@@ -3,6 +3,34 @@
 To estimate the age of each locus, a sequence from the locus is aligned to a 
 consensus sequence for the subfamily, and the genetic distance is calculated.
 
+## Setup environment
+
+Clone this repository
+
+```bash
+git clone git@github.com:mlbendall/HERV_age_estimation.git HERV_age_estimation.git && cd HERV_age_estimation.git
+```
+
+Create a conda environment with the necessary packages
+
+```bash
+conda create -n hervages python=2.7 future biopython intervaltree mafft
+```
+
+Activate the environment
+
+```bash
+conda activate hervages
+```
+
+Install `telebuilder` into this environment
+
+```
+git clone git@github.com:mlbendall/telebuilder.git && \
+cd telebuilder && \
+pip install . && \
+cd ..
+```
 
 ## 1. Create a database of consensus sequences
 
