@@ -1,0 +1,232 @@
+HERVK14-int	internal	DF0000192	Internal region of ERVK endogenous retrovirus, HERVK14 subfamily
+LTR14A	ltr	DF0000410	LTR14A (Long Terminal Repeat) for ERVK endogenous retrovirus
+LTR14B	ltr	DF0000411	LTR14B (Long Terminal Repeat) for ERVK endogenous retrovirus
+HERVK-int	internal	DF0000188	Internal region of ERVK endogenous retrovirus, HERVK subfamily
+LTR5	ltr	DF0000540	LTR5 (Long Terminal Repeat) for ERVK endogenous retrovirus
+LTR5A	ltr	DF0000556	LTR5A (Long Terminal Repeat) for ERVK endogenous retrovirus
+LTR5B	ltr	DF0000557	LTR5B (Long Terminal Repeat) for ERVK endogenous retrovirus
+LTR5_Hs	ltr	DF0000558	LTR5_Hs (Long Terminal Repeat) for ERVK endogenous retrovirus
+HERVK9-int	internal	DF0000196	Internal region of ERVK endogenous retrovirus, HERVK9 subfamily
+MER9a1	ltr	DF0000969	MER9a1 Long Terminal Repeat for ERVK endogenous retrovirus
+MER9a2	ltr	DF0000970	MER9a2 Long Terminal Repeat for ERVK endogenous retrovirus
+MER9a3	ltr	DF0000971	MER9a3 Long Terminal Repeat for ERVK endogenous retrovirus
+MER9B	ltr	DF0000972	MER9B Long Terminal Repeat for HERVK9 endogenous retrovirus
+HERVK13-int	internal	DF0000191	Internal region of ERVK endogenous retrovirus, HERVK13 subfamily
+LTR13	ltr	DF0000406	LTR13 (Long Terminal Repeat) for HERVK13 endogenous retrovirus
+LTR13A	ltr	DF0000408	LTR13A (Long Terminal Repeat) for HERVK13-like endogenous retrovirus
+HERVK22-int	internal	DF0000194	Internal region of ERVK endogenous retrovirus, HERVK22 subfamily
+LTR22	ltr	DF0000453	LTR22 (Long Terminal Repeat) for ERVK endogenous retrovirus
+LTR22A	ltr	DF0000454	LTR22A (Long Terminal Repeat) for HERVK22 endogenous retrovirus
+LTR22B	ltr	DF0000455	LTR22B (Long Terminal Repeat) for ERVK endogenous retrovirus
+LTR22B1	ltr	DF0000456	LTR22B1 (Long Terminal Repeat) for ERVK endogenous retrovirus
+LTR22B2	ltr	DF0000457	LTR22B2 (Long Terminal Repeat) for ERVK endogenous retrovirus
+LTR22C	ltr	DF0000458	LTR22C (Long Terminal Repeat) for ERVK endogenous retrovirus
+LTR22C0	ltr	DF0000459	LTR22C0 (Long Terminal Repeat) for ERVK endogenous retrovirus
+LTR22C2	ltr	DF0000460	LTR22C2 (Long Terminal Repeat) for ERVK endogenous retrovirus
+LTR22E	ltr	DF0000461	LTR22E (Long Terminal Repeat) for ERVK endogenous retrovirus
+HERVK3-int	internal	DF0000195	Internal region of HERVK endogenous retrovirus, HERVK3 subfamily
+LTR3	ltr	DF0000689	LTR3 (Long Terminal Repeat) for HERVK3 endogenous retrovirus
+LTR3A	ltr	DF0000509	LTR3A (Long Terminal Repeat) for HERVK3 endogenous retrovirus
+LTR3B	ltr	DF0000510	LTR3B (Long Terminal Repeat) for HERVK3 endogenous retrovirus
+LTR3B_	ltr	DF0000511	3' end extension variant of LTR3B
+HERVK11-int	internal	DF0000189	Internal region of ERVK endogenous retrovirus, HERVK11 subfamily
+MER11A	ltr	DF0000714	MER11A Long Terminal Repeat for HERVK11 endogenous retrovirus
+MER11B	ltr	DF0000715	MER11B Long Terminal Repeat for HERVK11 endogenous retrovirus
+MER11C	ltr	DF0000717	MER11C Long Terminal Repeat for HERVK11 endogenous retrovirus
+HERVK11D-int	internal	DF0000190	Internal region of ERVK endogenous retrovirus, HERVK11D subfamily
+MER11D	ltr	DF0000718	MER11D Long Terminal Repeat for HERVK11 endogenous retrovirus
+HERVKC4-int	internal	DF0000197	Internal region of ERVK endogenous retrovirus, HERVKC4 subfamily
+LTR14	ltr	DF0000409	LTR14 (Long Terminal Repeat) for HERVKC4 endogenous retrovirus
+HERVK14C-int	internal	DF0000193	Internal region of ERVK endogenous retrovirus, HERVK14C subfamily
+LTR14C	ltr	DF0000412	LTR14C (Long Terminal Repeat) for HERVK14C endogenous retrovirus
+HERV17-int	internal	DF0000628	Internal region of ERV1 endogenous retrovirus, HERV17 subfamily
+LTR17	ltr	DF0000427	LTR17 (Long Terminal Repeat) for HERV17 endogenous retrovirus
+HERV9-int	internal	DF0000173	Internal region of an ERV1 endogenous retrovirus, HERV9 subfamily
+LTR12	ltr	DF0000399	LTR12 (Long Terminal Repeat) for HERV9 endogenous retrovirus
+LTR12B	ltr	DF0000401	LTR12B (Long Terminal Repeat) for HERV9 endogenous retrovirus
+LTR12C	ltr	DF0000402	LTR12C (Long Terminal Repeat) for HERV9 endogenous retrovirus
+LTR12D	ltr	DF0000403	LTR12D (Long Terminal Repeat) for HERV9-like endogenous retrovirus
+LTR12E	ltr	DF0000404	LTR12E (Long Terminal Repeat) for HERV9-like endogenous retrovirus
+LTR12F	ltr	DF0000405	LTR12F (Long Terminal Repeat) for an ERV1-type endogenous retrovirus
+LTR12_	ltr	DF0000400	Variant LTR12 (Long Terminal Repeat) for HERV9 endogenous retrovirus
+HERV30-int	internal	DF0000170	Internal region of ERV1 endogenous retrovirus, HERV30 subfamily
+LTR30	ltr	DF0000486	LTR30 (Long Terminal Repeat) for ERV1 endogenous retrovirus
+HERVE-int	internal	DF0000174	Internal region of an ERV1 endogenous retrovirus, HERVE subfamily
+LTR2	ltr	DF0000449	LTR2 (Long Terminal Repeat) for Harlequin endogenous retrovirus
+LTR2B	ltr	DF0000484	LTR2B (Long Terminal Repeat) for Harlequin endogenous retrovirus
+LTR2C	ltr	DF0000485	LTR2C (Long Terminal Repeat) for Harlequin endogenous retrovirus
+HERVE_a-int	internal	DF0000175	ERV1 endogenous retrovirus, HERVE_a subfamily
+HERV-Fc1-int	internal	DF0000176	ERV1 endogenous retrovirus, HERV-Fc1 subfamily
+HERV-Fc1_LTR1	ltr	DF0000177	LTR1 (Long Terminal Repeat) for endgenous retrovirus HERV-Fc1
+HERV-Fc1_LTR2	ltr	DF0001337	LTR (Long Terminal Repeat) of endogenous retrovirus, HERV-Fc1 subfamily
+HERV-Fc1_LTR3	ltr	DF0000178	LTR3 (Long Terminal Repeat) for endgenous retrovirus HERV-Fc1
+HERV-Fc2-int	internal	DF0000179	ERV1 endogenous retrovirus, HERV-Fc2 subfamily
+HERV-Fc2_LTR	ltr	DF0000180	LTR (Long Terminal Repeat) for endogenous retrovirus HERV-Fc2
+HERVFH19-int	internal	DF0000181	Internal region of ERV1 endogenous retrovirus, HERVFH19 subfamily
+LTR19A	ltr	DF0000431	Putative long terminal repeat of endogenous retrovirus
+LTR19B	ltr	DF0000432	LTR19B (Long Terminal Repeat) for ERV1 endogenous retrovirus
+HERVFH21-int	internal	DF0000182	Internal region of ERV1 endogenous retrovirus, HERVFH21 subfamily
+LTR21A	ltr	DF0000450	LTR21A (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR21B	ltr	DF0000451	Long terminal repeat of endogenous retrovirus HERVH22
+LTR21C	ltr	DF0000452	LTR21C (Long Terminal Repeat) for ERVL endogenous retrovirus
+MER50-int	internal	DF0000815	Internal region of ERV1 endogenous retrovirus, MER50-int subfamily
+MER50	ltr	DF0000807	MER50 Long Terminal Repeat for ERV1 endogenous retrovirus
+MER50B	ltr	DF0000814	MER50B Long Terminal Repeat for ERV1 endogenous retrovirus
+MER50C	ltr	DF0000808	MER50C Long Terminal Repeat for ERV1 endogenous retrovirus
+HERVH-int	internal	DF0000183	Internal region of ERV1 endogenous retrovirus, HERVH subfamily
+LTR7	ltr	DF0000571	LTR7 (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR7A	ltr		
+LTR7B	ltr	DF0000587	LTR7B (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR7C	ltr	DF0000588	LTR7C (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR7Y	ltr	DF0000589	LTR7Y (Long Terminal Repeat) for ERV1 endogenous retrovirus
+HERVH48-int	internal	DF0000184	Internal region of ERV1 endogenous retrovirus, HERVH48 subfamily
+MER48	ltr	DF0000793	MER48 Long Terminal Repeat for HERVH48 endogenous retrovirus
+HERVI-int	internal	DF0000185	Internal region of ERV1 endogenous retrovirus, HERVI subfamily
+LTR10A	ltr	DF0000390	LTR10A (Long Terminal Repeat) for an ERV1-type endogenous retrovirus
+LTR10B	ltr	DF0000391	LTR10B (Long Terminal Repeat) for HERVI endogenous retrovirus
+LTR10B1	ltr	DF0000392	LTR10B1 (Long Terminal Repeat) for HERVI endogenous retrovirus
+LTR10B2	ltr	DF0000393	LTR10B2 (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR10C	ltr	DF0000394	LTR10C (Long Terminal Repeat) for HERVI endogenous retrovirus
+LTR10D	ltr	DF0000395	LTR10D (Long Terminal Repeat) for HERVI endogenous retrovirus
+LTR10E	ltr	DF0000396	LTR10E (Long Terminal Repeat) for HERVI endogenous retrovirus
+LTR10F	ltr	DF0000397	LTR10F (Long Terminal Repeat) for HERVIP10F endogenous retrovirus
+LTR10G	ltr	DF0000398	LTR10G (Long Terminal Repeat) for ERV1 endogenous retrovirus
+HERVIP10F-int	internal	DF0000186	Internal region of ERV1 endogenous retrovirus, HERVIP10F subfamily
+HERVIP10FH-int	internal	DF0000187	Internal region of ERV1 endogenous retrovirus, HERVIP10FH subfamily
+HERVL-int	internal	DF0000198	Internal region of ERVL endogenous retrovirus, HERVL subfamily
+MLT2A1	ltr	DF0001027	MLT2A1 Long Terminal Repeat for ERVL endogenous retrovirus
+MLT2A2	ltr	DF0001028	MLT2A2 Long Terminal Repeat for ERVL endogenous retrovirus
+MLT2B1	ltr	DF0001029	MLT2B1 Long Terminal Repeat for ERVL endogenous retrovirus
+MLT2B2	ltr	DF0001030	MLT2B2 Long Terminal Repeat for ERVL endogenous retrovirus
+MLT2B3	ltr	DF0001031	MLT2B3 Long Terminal Repeat for ERVL endogenous retrovirus
+MLT2B4	ltr	DF0001032	MLT2B4 Long Terminal Repeat for ERVL endogenous retrovirus
+MLT2B5	ltr	DF0001033	MLT2B5 Long Terminal Repeat for ERVL endogenous retrovirus
+HERVL18-int	internal	DF0000199	Internal region of ERVL Endogenous retrovirus, HERV18 subfamily
+LTR18A	ltr	DF0000428	LTR18A (Long Terminal Repeat) for HERV18 endogenous retrovirus
+LTR18B	ltr	DF0000429	LTR18B (Long Terminal Repeat) for HERV18 endogenous retrovirus
+LTR18C	ltr	DF0000430	LTR18C (Long Terminal Repeat) for ERVL endogenous retrovirus
+HERVL32-int	internal	DF0000200	Internal region of ERVL endogenous retrovirus, HERVL32 subfamily
+LTR32	ltr	DF0000488	LTR32 (Long Terminal Repeat) for ERVL endogenous retrovirus
+HERVL40-int	internal	DF0000201	Internal region of ERVL endogenous retrovirus, HERVL40 subfamily
+LTR40a	ltr	DF0000513	LTR40a (Long Terminal Repeat) for HERVL40 endogenous retrovirus
+LTR40b	ltr	DF0000515	LTR40b (Long Terminal Repeat) for HERVL40 endogenous retrovirus
+LTR40c	ltr	DF0000516	LTR40b (Long Terminal Repeat) for HERVL40 endogenous retrovirus
+LTR40A1	ltr	DF0000514	LTR40A1 (Long Terminal Repeat) for ERVL endogenous retrovirus
+HERVL66-int	internal	DF0000202	Internal region of ERVL endogenous retrovirus, HERVL66 subfamily
+LTR66	ltr	DF0000565	LTR66 (Long Terminal Repeat) for HERVL66 endogenous retrovirus
+HERVL74-int	internal	DF0000203	Internal region of ERVL endogenous retrovirus, HERVL74 subfamily
+MER74A	ltr	DF0000925	MER74A Long Terminal Repeat for ERVL endogenous retrovirus
+MER74B	ltr	DF0000926	MER74B (Long Terminal Repeat) for ERVL endogenous retrovirus
+MER74C	ltr	DF0000927	MER74C (Long Terminal Repeat) for ERVL endogenous retrovirus
+ERVL-int	internal	DF0000118	Endogenous retrovirus,  ERVL subfamily (internal region)
+MLT2D	ltr	DF0001036	MLT2D Long Terminal Repeat for ERVL endogenous retrovirus
+ERVL-B4-int	internal	DF0000775	ERVL Endogenous retrovirus, ERVL-B4 subfamily
+MLT2C1	ltr	DF0001034	MLT2C1 Long Terminal Repeat for ERVL endogenous retrovirus
+MLT2C2	ltr	DF0001035	MLT2C2 Long Terminal Repeat for ERVL endogenous retrovirus
+MLT2F	ltr	DF0001038	MLT2F Long Terminal Repeat for ERVL endogenous retrovirus
+ERVL-E-int	internal	DF0000120	ERVL endogenous retrovirus, ERVL-E subfamily
+MLT2E	ltr	DF0001037	MLT2E Long Terminal Repeat for ERVL endogenous retrovirus
+HERV3-int	internal	DF0000169	Internal region of an ERV1 endogenous retrovirus, HERV3 subfamily
+LTR4	ltr	DF0000512	LTR4 (Long Terminal Repeat) for HERV3 endogenous retrovirus
+LTR61	ltr	DF0000561	LTR61 (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR76	ltr	DF0000581	LTR76 (Long Terminal Repeat) for ERV1 endogenous retrovirus
+HERV4_I-int	internal	DF0000172	Internal region of an ERV1 endogenous retrovirus, HERV4 subfamily
+MER51A	ltr	DF0000809	MER51A Long Terminal Repeat for ERV1 endogenous retrovirus
+MER51B	ltr	DF0000810	MER51B Long Terminal Repeat for ERV1 endogenous retrovirus
+MER51C	ltr	DF0000811	MER51C Long Terminal Repeat for ERV1 endogenous retrovirus
+MER51D	ltr	DF0000812	MER51D Long Terminal Repeat for ERV1 endogenous retrovirus
+MER51E	ltr	DF0000813	MER51E Long Terminal Repeat for ERV1 endogenous retrovirus
+HERVP71A-int	internal	DF0000204	Internal region of ERV1 endogenous retrovirus, HERVP71A subfamily
+LTR71A	ltr	DF0000573	LTR71A (Long Terminal Repeat) for HERVP71A endogenous retrovirus
+LTR71B	ltr	DF0000574	LTR71B (Long Terminal Repeat) for HERVP71A endogenous retrovirus
+HERVS71-int	internal	DF0000205	Internal region of ERV1 endogenous retrovirus, HERVS71 subfamily
+LTR6A	ltr	DF0000569	LTR6A (Long Terminal Repeat) for HERVS71 endogenous retrovirus
+LTR6B	ltr	DF0000570	LTR6B (Long Terminal Repeat) for HERVS71 endogenous retrovirus
+PABL_A-int	internal	DF0000235	Internal region of ERV1 endogenous retrovirus, PABL_A-int subfamily
+PABL_A	ltr	DF0000231	Long Terminal Repeat for PABL_A endogenous retrovirus
+PABL_B-int	internal	DF0001051	Internal region of ERV1 endogenous retrovirus, PABL_B-int subfamily
+PABL_B	ltr	DF0001050	PABL_B Long Terminal Repeat for ERV1 endogenous retrovirus
+MER4-int	internal	DF0000806	Internal region of ERV1 endogenous retrovirus, MER4-int subfamily
+MER4A	ltr	DF0000892	MER4A Long Terminal Repeat for ERV1 endogenous retrovirus
+MER4A1	ltr	DF0000795	MER4A1 Long Terminal Repeat for ERV1 endogenous retrovirus
+MER4A1_	ltr	DF0000796	Variant MER4A1 Long Terminal Repeat for ERV1 endogenous retrovirus
+MER4B	ltr	DF0000797	MER4B Long Terminal Repeat for ERV1 endogenous retrovirus
+MER4C	ltr	DF0000799	MER4C Long Terminal Repeat for ERV1 endogenous retrovirus
+MER4B-int	internal	DF0000798	Internal region of ERV1 endogenous retrovirus, MER4B-int subfamily
+MER4D	ltr	DF0000801	MER4D Long Terminal Repeat for ERV1 endogenous retrovirus
+MER4D0	ltr	DF0000802	MER4D0 Long Terminal Repeat for ERV1 endogenous retrovirus
+MER4D1	ltr	DF0000803	MER4D1 Long Terminal Repeat for ERV1 endogenous retrovirus
+MER4E	ltr	DF0000804	MER4E Long Terminal Repeat for ERV1 endogenous retrovirus
+MER4E1	ltr	DF0000805	MER4E1 Long Terminal Repeat for ERV1 endogenous retrovirus
+MER34B-int	internal	DF0000752	Internal region of ERV1 endogenous retrovirus, MER34B-int subfamily
+MER34	ltr	DF0000770	MER34 Long Terminal Repeat for ERV1 endogenous retrovirus
+MER34B	ltr	DF0000751	MER34B Long Terminal Repeat for ERV1 endogenous retrovirus
+MER34C	ltr	DF0000753	MER34C Long Terminal Repeat for ERV1 endogenous retrovirus
+MER34C2	ltr	DF0000755	MER34C2 Long Terminal Repeat for ERV1 endogenous retrovirus
+MER34C_	ltr	DF0000754	Extension of MER34C Long Terminal Repeat for ERV1 endogenous retrovirus
+MER41-int	internal	DF0000765	Internal region of ERV1 endogenous retrovirus, MER41-int subfamily
+MER41A	ltr	DF0000760	MER41A Long Terminal Repeat for ERV1 endogenous retrovirus
+MER41B	ltr	DF0000761	MER41B Long Terminal Repeat for ERV1 endogenous retrovirus
+MER41C	ltr	DF0000762	MER41C Long Terminal Repeat for ERV1 endogenous retrovirus
+MER61-int	internal	DF0000882	Internal region of ERV1 endogenous retrovirus, MER61-int subfamily
+MER61A	ltr	DF0000883	MER61A Long Terminal Repeat for ERV1 endogenous retrovirus
+MER61B	ltr	DF0000884	MER61B Long Terminal Repeat for ERV1 endogenous retrovirus
+MER61C	ltr	DF0000885	MER61C Long Terminal Repeat for ERV1 endogenous retrovirus
+MER61D	ltr	DF0000886	MER61D Long Terminal Repeat for ERV1 endogenous retrovirus
+MER101-int	internal	DF0000700	Internal region of ERV1 endogenous retrovirus, MER101-int subfamily
+MER101	ltr	DF0000768	MER101 Long Terminal Repeat for ERV1 endogenous retrovirus
+MER101B	ltr	DF0000695	MER101B putative Long Terminal Repeat for ERV1 endogenous retrovirus
+MER65A	ltr	DF0000897	MER65A Long Terminal Repeat for ERV1 endogenous retrovirus
+PRIMA4-int	internal	DF0001053	Internal region of PRIMA4 endogenous retrovirus, PRIMA4-int subfamily
+PRIMA4_LTR	ltr	DF0001054	PRIMA4_LTR (Long Terminal Repeat) for PRIMA4 endogenous retrovirus
+PRIMA41-int	internal	DF0001052	Internal region of PRIMA41 endogenous retrovirus, PRIMA41-int subfamily
+MER41D	ltr	DF0000781	MER41D Long Terminal Repeat for ERV1 endogenous retrovirus
+MER41E	ltr	DF0000763	MER41E Long Terminal Repeat for ERV1 endogenous retrovirus
+PRIMAX-int	internal	DF0001055	Internal region of PRIMAX endogenous retrovirus, PRIMAX-int subfamily
+LTR24	ltr	DF0000464	LTR24 (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR24B	ltr	DF0000465	LTR24B (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR24C	ltr	DF0000466	LTR24C (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR19-int	internal	DF0000434	Internal region of ERV1 endogenous retrovirus, LTR19-int subfamily
+LTR19C	ltr	DF0000433	LTR19C (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR23-int	internal	DF0000463	Internal region of ERV1 endogenous retrovirus, LTR23-int subfamily
+LTR23	ltr	DF0000462	LTR23 (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR25-int	internal	DF0000468	Internal region of ERV1 endogenous retrovirus, LTR25-int subfamily
+LTR25	ltr	DF0000467	LTR25 (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR46-int	internal	DF0000529	Internal region of ERV1 endogenous retrovirus, LTR46-int subfamily
+LTR46	ltr	DF0000528	LTR46 (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR57-int	internal	DF0000553	Internal region of HERV57 endogenous retrovirus, LTR57-int subfamily
+LTR57	ltr	DF0000552	LTR57 (Long Terminal Repeat) for ERVL endogenous retrovirus
+ERV3-16A3_I-int	internal	DF0000116	Internal region of an ERVL endogenous retrovirus, ERV3-16A3_I subfamily
+ERV3-16A3_LTR	ltr	DF0000117	Long terminal repeat, ERV3-16A3_LTR subfamily
+LTR16	ltr	DF0000414	LTR16 (Long Terminal Repeat) for ERVL endogenous retrovirus
+LTR16A	ltr	DF0000415	LTR16A (Long Terminal Repeat) for ERVL endogenous retrovirus
+LTR16A1	ltr	DF0000416	LTR16A1 (Long Terminal Repeat) for ERVL endogenous retrovirus
+LTR16A2	ltr	DF0000417	LTR16A2 (Long Terminal Repeat) for ERVL endogenous retrovirus
+LTR16B	ltr	DF0000418	LTR16B (Long Terminal Repeat) for ERVL endogenous retrovirus
+LTR16B1	ltr	DF0000419	LTR16B1 (Long Terminal Repeat) for ERVL endogenous retrovirus
+LTR16B2	ltr	DF0000420	LTR16B2 (Long Terminal Repeat) for ERVL endogenous retrovirus
+LTR16C	ltr	DF0000421	LTR16C (Long Terminal Repeat) for ERVL endogenous retrovirus
+LTR16E1	ltr	DF0000425	LTR16E1 (Long Terminal Repeat) for ERVL endogenous retrovirus
+LTR16E2	ltr	DF0000426	LTR16E2 (Long Terminal Repeat) for ERVL endogenous retrovirus
+Harlequin-int	internal	DF0000017	Internal region of ERV1 endogenous retrovirus, Harlequin subfamily
+HUERS-P1-int	internal	DF0000214	Internal region of ERV1 endogenous retrovirus, HUERS-P1 subfamily
+LTR8	ltr	DF0000590	LTR8 (Long Terminal Repeat) for HUERS-P3 endogenous retrovirus
+LTR8A	ltr	DF0000616	LTR8A (Long Terminal Repeat) for ERV1 endogenous retrovirus
+HUERS-P2-int	internal	DF0000215	Internal region of ERV1 endogenous retrovirus, HUERS-P2 subfamily
+LTR1	ltr	DF0000375	LTR1 (Long Terminal Repeat) for human endogenous retrovirus HUERS-P2
+LTR1A1	ltr	DF0000435	LTR1A1 (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR1A2	ltr	DF0000436	LTR1A2 (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR1B	ltr	DF0000437	LTR1B (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR1C	ltr	DF0000440	LTR1C (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR1C1	ltr	DF0000441	LTR1C1 (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR1D	ltr	DF0000443	LTR1D (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR1E	ltr	DF0000445	LTR1E (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR1F	ltr	DF0000446	LTR1F (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR1F1	ltr	DF0000447	LTR1F1 (Long Terminal Repeat) for ERV1 endogenous retrovirus
+HUERS-P3-int	internal	DF0000216	Internal region of ERV1 endogenous retrovirus, HUERS-P3 subfamily
+LTR9	ltr	DF0000618	LTR9 (Long Terminal Repeat) for HUERS-P3 endogenous retrovirus
+LTR9A1	ltr	DF0000622	LTR9A1 (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR9B	ltr	DF0000623	LTR9B (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR9C	ltr	DF0000624	LTR9C (Long Terminal Repeat) for ERV1 endogenous retrovirus
+LTR9D	ltr	DF0000625	LTR9D (Long Terminal Repeat) for ERV1 endogenous retrovirus
+HUERS-P3b-int	internal	DF0000217	Internal region of ERV1 endogenous retrovirus, HUERS-P3b subfamily
