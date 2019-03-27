@@ -109,7 +109,7 @@ python final_consensus.py
 
 ## 2. `age_pipeline.sh`
 
-The bash script `age_pipeline.sh` encapsulates all the steps needed to perform ages estimates
+The bash script [`age_pipeline.sh`](./age_pipeline.sh) encapsulates all the steps needed to perform ages estimates
 for an ERV subfamily. The main steps are to 2A) build the ERV annotation, 
 2B) extract the sequences for each locus, and 2C) estimate ages for each locus.
 Below each step is described in detail.
