@@ -13,15 +13,15 @@ IFS=',' read -ra ltrA <<< "$ltrmodel"
 
 mkdir -p ${name}
 
-echo -e "\n\n[--- Building ERV loci ---]\n\n"
+echo -e "[--- Building ERV loci ---]"
 if [[ ! -e ${name}/${name}.gtf ]]; then
     buildERV --auto --no_igv ${name} ${intmodel} ${ltrmodel} 2>&1 | tee ${name}/build.log
 fi
 
-echo -e "\n\n[--- Create TSV ERV loci ---]\n\n"
+# Create TSV
 gtftools tsv < ${name}/${name}.gtf > ${name}/${name}.tsv
 
-echo -e "\n\n[--- Extracting ERV sequences ---]\n\n"
+echo -e "[--- Extracting ERV sequences ---]"
 gtftools extract --gtfout ${name}/${name}_extracted.gtf ${name}/${name}.gtf > ${name}/${name}.fna
 ./geneious_gtf < ${name}/${name}_extracted.gtf > ${name}/${name}_extracted.geneious.gtf
 
@@ -31,4 +31,3 @@ python estimate_ages.py ${name}/${name}_extracted.gtf ${name}/${name}.fna ERV_hu
 
 # Plot
 Rscript plotages.R ${name}/distances.tsv ${name}/age_distribution.pdf
-
